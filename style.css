@@ -1,0 +1,55 @@
+.navbar{
+    padding-right:3px;
+}
+.slider{
+    background-repeat:repeat-x;
+}
+.about{
+    box-shadow: 0 4px 8px 0 rgba(2, 1, 1, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+
+
+}
+.services{
+    background-color:rgb(240, 240, 240);
+}
+.pricing{
+    background-color: rgb(255, 255, 255);
+}
+.callme{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.serhover:hover{
+    box-shadow: yellow;
+}
+.claindrevew{
+    background-color: rgb(229, 253, 253);
+}
+.etc{
+    background-color: black;
+}
+.nav-item a{
+    word-spacing: 30px;
+}
+.nav-item a:hover{
+    color: chartreuse;
+}
+.revew{
+    box-shadow: 0 4px 8px 0 rgba(251, 247, 247, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+   
+}
+.revew:hover{
+    box-shadow: 0 4px 8px 0 rgba(2, 1, 1, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+.revew1:hover{
+    box-shadow: 0 4px 8px 0 rgba(2, 1, 1, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+}
+.about img{
+    box-shadow:0 4px 8px 0 rgba(2, 1, 1, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+}
+.subscrive h1:hover{
+    
+   
+}
+.claint{
+    box-shadow: 0 4px 8px 0 rgba(2, 1, 1, 0.493), 0 6px 20px 0 rgba(3, 3, 3, 0.397);
+}
